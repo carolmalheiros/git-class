@@ -1,0 +1,43 @@
+.background {
+   background-color:#7d7270; 
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    height: 500px;
+}
+
+.fonte-texto {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:gray;
+}
+
+.fonte-titulo-card {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    color: #6eb48c;
+}
+
+.fonte-titulo {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    color: #07b48f;
+}
+
+.fonte-texto-card-footer {
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+}
+.imagem-card {
+    object-fit: cover;
+    height: 380px;
+}
+
+#footer-redes {
+    font-size: 2em;
+} 
+
